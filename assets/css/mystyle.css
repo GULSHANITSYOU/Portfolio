@@ -1,0 +1,23 @@
+.imp-links {
+  /* border: 2px solid black; */
+  margin-top: 2em;
+}
+
+.imp-links ul li {
+  position: relative;
+  background: var(--border-gradient-onyx);
+  padding: 20px;
+  border-radius: 14px;
+  box-shadow: var(--shadow-2);
+  z-index: 1;
+  display: flex;
+  margin-top: 1em;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+}
+
+.myimg{
+  border-radius: 15px;
+}
